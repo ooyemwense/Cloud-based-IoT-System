@@ -22,6 +22,13 @@ A scalable cloud IoT system enabling real-time data collection, processing, and 
 - **CI/CD**: GitHub Actions
 
 ## Project Structure
+iot-cloud-platform/
+├── backend/           # Python backend services
+├── devices/           # IoT device code and simulators
+├── infrastructure/    # Docker, cloud configs
+├── docs/             # Documentation
+└── scripts/          # Utility scripts
+
 ## Prerequisites
 - Python
 - Git
