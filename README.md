@@ -14,8 +14,8 @@ A scalable cloud IoT system enabling real-time data collection, processing, and 
 - Multi-user collaboration support
 
 ## Tech Stack
-- **Backend**: Python (FastAPI/Flask)
-- **Cloud**: AWS IoT Core / Azure IoT Hub
+- **Backend**: Python
+- **Cloud**: TBD
 - **Database**: MongoDB / PostgreSQL
 - **Message Broker**: MQTT (Mosquitto)
 - **Containerization**: Docker***
@@ -36,3 +36,4 @@ iot-cloud-platform/
 - Cloud account (AWS/Azure/GCP) or any free one that we pick later
   
 *** We might not use Docker
+*** A lot of the requirements or tools listed here might not be used at all so please keep in mind, we will filter them out once we reach a significant part of the project.
